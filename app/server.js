@@ -1138,7 +1138,7 @@ function createServer({ port = 3000, logger, metrics } = {}) {
 								</section>
 							</div>
 						</div>
-						<p class="page-footer">Copyright © 2026 Sparta Global - First Deployment</p>
+						<p class="page-footer">Copyright © 2026 Sparta Global - Second Deployment</p>
 						<p class="mode-pill">Mode: ${mode.modeLabel}</p>
 						<p class="version-stamp">${escapeHtmlAttribute(footerVersionStamp)}</p>
 						<script src="/app.js"></script>
